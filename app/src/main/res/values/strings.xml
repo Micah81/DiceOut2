@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Playground</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="img_description">Pic1</string>
+    <string name="btn_chgPicture">Change Picture</string>
+</resources>
